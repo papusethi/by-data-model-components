@@ -1,0 +1,20 @@
+.formSection {
+    background: #fff;
+    border-radius: 4px;
+}
+
+.formSection__header {
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+}
+
+.formSection__title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #3F4756;
+}
